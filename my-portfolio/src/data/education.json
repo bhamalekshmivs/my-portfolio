@@ -4,14 +4,14 @@
       "institution": "KTU College of Engineering, TVM",
       "course": "Civil Engineering",
       "year": "2016 - 2020",
-      "imageSrc": "assets/education/apj.png"
+      "imageSrc": "../../assets/education/apj.png"
     },
     {
       "degree": "Master's Degree",
       "institution": "Carleton University",
       "course": "Structural Engineering",
       "year": "2022 - 2023",
-      "imageSrc": "assets/education/carleton.png"
+      "imageSrc": "../../assets/education/carleton.png"
     }
   ]
   
