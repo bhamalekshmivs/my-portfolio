@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Home Tech Director",
+    "imageSrc": "projects/homeTechProject.png",
+    "description": "This is a project in which I've worked to make an application for IoT, Giving real time updates, device management, manuals and reports.",
+    "skills": ["Java", "Spring Boot", "Angular","Selenium","Oracle Database" ]
+    
+  },
+  {
+    "title": "Invoice Management App",
+    "imageSrc": "projects/invoiceProject.png",
+    "description": "This is a project in which I've worked to make an application for managing invoices for a multistore app having sub-stores, vendors, distributors etc.",
+    "skills": ["React", "Java", "Spring Boot", "PostgreSQL"]
+    
+  },
+  {
+    "title": "Insurance Policy Application",
+    "imageSrc": "projects/insuranceProject.png",
+    "description": "This is a project n which I've worked to make an application for selecting, using, analysing and monitoring different insurance policies",
+    "skills": ["React", "Express", "Node","MongoDB"]
+    
+  }
+]

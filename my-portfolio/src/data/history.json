@@ -1,0 +1,40 @@
+[
+  {
+    "role": "Software Developer",
+    "organisation": "Element AI",
+    "startDate": "Jan, 2023",
+    "endDate": "Mar, 2024",
+    "experiences": ["Tech Stack - Java, Spring Boot, Maven, REST APIs, AWS, Selenium, Cucumber, Jenkins, Oracle Database, Git, Kafka, Docker, Kubernetes",
+    
+    "Designed and developed Spring Boot applications based on Microservices Architecture",
+
+    "Developed dynamic single-page applications using Angular, HTML5, CSS3, and Bootstrap for modern, responsive UIs.",
+
+    "Migrated from SOAP to REST Web Services for enhanced flexibility and compatibility.",  
+
+    "Configured OIDC on top of OAUTH2.0 for secure and interoperable REST web services."
+    ],
+    "imageSrc": "history/elementAI.png"
+  },
+  {
+    "role": "Full Stack Developer",
+    "organisation": "Magnus Information Services",
+    "startDate": "May, 2020",
+    "endDate": "March, 2022",
+    "experiences": ["Tech Stack – Core Java, Spring boot, Spring Data JPA, Hibernate, React.js, RESTful web services, Microservices Architecture, GitHub, MySQL",
+    
+    "Created a resilient backend logic layer with collections, multi-threading, and exception handling, boosting application performance and scalability",
+        
+    "Collaborated with cross-functional teams to integrate frontend technologies like HTML, CSS, JavaScript, and React components",
+    
+    "Incorporated multi-language support with dynamic language switching within the application", 
+    
+    "Developed a secure Role-Based Access Control system for administrators and shop admins, enhancing overall system security"
+    
+  
+  ],
+
+    "imageSrc": "history/magnus.png"
+  } 
+ 
+]

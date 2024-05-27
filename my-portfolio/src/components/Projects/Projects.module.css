@@ -1,0 +1,26 @@
+@import "../../vars.css";
+
+.container {
+  margin-top: 76px;
+  color: var(--color-text);
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+.title {
+  font-size: 35px;
+  font-weight: 700;
+  letter-spacing: 1.75px;
+  text-transform: uppercase;
+  margin-bottom: 20px; /* Added margin bottom for better spacing */
+}
+
+.projects {
+  margin-top: 37px;
+  display: grid; /* Changed from flex to grid for better alignment */
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); /* Adjusted to responsive grid */
+  gap: 15px;
+  justify-items: center; /* Center items horizontally */
+  align-items: start; /* Align items to the top */
+  width: 100%;
+}
